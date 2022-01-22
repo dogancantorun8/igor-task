@@ -1,3 +1,0 @@
-### Tek calender olan kısım 
-
-<date-picker v-model="mydate" lang="en" type="datetime" format="YYYY-MMMM-DD HH:mm:ss"></date-picker>
